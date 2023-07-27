@@ -1,0 +1,6 @@
+1. email
+a. tipo email
+
+2. contraseña
+a. simbolos, mayusculas, minusculas, NUMEROS
+b. min 8 caracteres, sin maximo

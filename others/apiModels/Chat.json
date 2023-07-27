@@ -1,0 +1,30 @@
+{
+  "id": "123456789",
+  "fromSpace": "123456789",
+  "messages": [
+    {
+      "id": "123456789",
+      "type": "text",
+      "owner": {
+        "id": "1234567890",
+        "firstName": "John",
+        "lastName": "Smith",
+        "profileImage": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+      },
+      "text": "Hello World!",
+      "createdAt": "2016-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "123456789",
+      "type": "image",
+      "owner": {
+        "id": "1234567890",
+        "firstName": "John",
+        "lastName": "Smith",
+        "profileImage": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+      },
+      "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "createdAt": "2016-01-01T00:00:00.000Z"
+    }
+  ]
+}

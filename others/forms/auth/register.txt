@@ -1,0 +1,29 @@
+1. firstName
+a.  3 - 15 
+b. solo letras, NO NUMEROS, NO SIMBOLOS
+C. EXISTENCIA OBLIGATORIA
+
+2. lastName
+a.  3 - 15 
+b. solo letras, NO NUMEROS, NO SIMBOLOS
+C. EXISTENCIA OBLIGATORIA
+
+3. email
+a. 5 a 50 //verlo
+b. campo unico
+C. EXISTENCIA OBLIGATORIA
+d. Tipo email (regex)
+
+7. username
+a. campo unico
+b. 5 a 30 //verlo
+c. solo letras y numeros
+
+8. ingresar contraseña
+a. simbolos, mayusculas, minusculas, NUMEROS
+b. min 8 caracteres, sin maximo
+
+9. repetir contraseña
+a. simbolos, mayusculas, minusculas, NUMEROS
+b. min 8 caracteres, sin maximo
+

@@ -1,0 +1,25 @@
+@import "./globals.scss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//Layouts
+@layer base {
+  .layoutSpContainer {
+    @apply relative  z-[1] flex min-h-screen w-full lg:mt-0 lg:grid lg:grid-cols-[250px,auto] lg:bg-slate-50 2xl:grid-cols-[300px,auto];
+  }
+
+  .layoutSpChildren {
+    @apply layoutSpContainer flex flex-grow flex-col bg-slate-50;
+  }
+}
+
+//Sections
+@layer base {
+  .heroSpContainer {
+    @apply seccion1-x  relative z-[1] flex  h-[50vh] min-h-[500px] w-full flex-col items-center justify-center  gap-10 lg:mt-0 lg:h-[45vh] lg:min-h-[45vh];
+  }
+
+  .dropdown-content {
+  }
+}

@@ -1,0 +1,12 @@
+Recibis un email con un link, con este formato:
+miweb.com/auth/restore?code=123456
+
+1. ingresar nueva contraseña
+a. simbolos, mayusculas, minusculas, NUMEROS
+b. min 8 caracteres, sin maximo
+
+2. repetir contraseña
+a. simbolos, mayusculas, minusculas, NUMEROS
+b. min 8 caracteres, sin maximo
+
+3. este codigo debe tener un vencimiento (backend)

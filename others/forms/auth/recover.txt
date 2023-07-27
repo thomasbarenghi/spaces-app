@@ -1,0 +1,5 @@
+El usuario solciita por aqui que le enviemos un email de recuperacion
+
+3. email
+a. 5 a 50 //verlo
+d. Tipo email (regex)

@@ -1,0 +1,7 @@
+1. Validacion sea en tiempo real. Esto quiere decir que se valide a medida que el usuario llene cada
+campo individualmente, como tambien que al apretar "enviar" se validen todos los campos antes de 
+realizar la accion correspondiente
+
+2. Si hay errores desactivar el boton enviar hasta que se solucionen
+
+3. primero validar por Javascript y luego de asegurarnos que funcione, por html
